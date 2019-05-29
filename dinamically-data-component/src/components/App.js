@@ -89,12 +89,8 @@ class App extends Component{
                   phone= {people.phone}
                   />
       })}
-      
-
       </div>
     );
   }
-  
 }
-
 export default App;
